@@ -1,1 +1,1 @@
-
+The activity in itself was not that bad I did struggle trying to figure out how to properly insert an interger and sometimes for me it is a lot to remember and as for setting up the gitub that was another thing I struggled with properly 
